@@ -16,3 +16,6 @@ create table public.siswa (
   constraint siswa_pkey primary key (id_siswa),
   constraint siswa_nisn_key unique (nisn)
 ) TABLESPACE pg_default;
+
+Link youtube video:
+https://youtu.be/o6ll9pcGY8g
